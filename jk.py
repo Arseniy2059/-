@@ -8,6 +8,3 @@ elif first == second == third:
     print(3)
 else:
     print(0)
-
-
-
